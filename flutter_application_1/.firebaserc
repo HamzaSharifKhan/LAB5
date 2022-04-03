@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab5-4845a"
+  },
+  "targets": {
+    "lab5-4845a": {
+      "hosting": {
+        "qs2": [
+          "lab5qs2"
+        ]
+      }
+    }
+  }
+}
